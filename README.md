@@ -44,8 +44,7 @@ python object_detector.py
 ```
 
 ## 📸 Output
-<img width="1918" height="1008" alt="Screenshot 2026-07-03 183658" src="https://github.com/user-attachments/assets/937dc2fb-70b7-413b-832f-b678c3029166" />
-
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/3706f777-f52d-4a6e-8958-6a1d29232075" />
 
 
 ---
