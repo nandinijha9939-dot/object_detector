@@ -50,6 +50,3 @@ object_detector/
 - Custom-trained models
 - Object tracking
 
-## Author
-
-Ankit Kumar
